@@ -3,7 +3,7 @@
 <head>
 <title>SoftwMicro</title>
 <!-- CSS Files -->
-<?php ini_set('default_charset','iso-8859-1');?>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
 <link rel="stylesheet" type="text/css" media="screen" href="menu/css/simple_menu.css">
 <link rel="stylesheet" href="css/nivo-slider.css" type="text/css" media="screen">
@@ -69,41 +69,51 @@
 </div>
   <div id="container">
   <h1>Sobre</h1>
-  <p>O <b>Bacharelado em Sistemas de Informação </b> tem como objetivo geral
-atuar de forma competente e transformadora no desenvolvimento de sistemas de informação 
-e na gestão da tecnologia da informação nas organizações. O curso é voltado para áreas de Ciência exatas, Engenharia da Computação, pesquisas e estudos
-no campo da ciência da computação.
+  <p>O <b>Bacharelado em Sistemas de InformaÃ§Ã£o </b> tem como objetivo geral
+atuar de forma competente e transformadora no desenvolvimento de sistemas de informaÃ§Ã£oo 
+e na gestÃ£o da tecnologia da informaÃ§Ã£o nas organizaÃ§Ãµes. O curso Ã© voltado para Ã¡reas de CiÃªncia exatas, Engenharia da ComputaÃ§Ã£o, pesquisas e estudos
+no campo da ciÃªncia da computaÃ§Ã£o.
       <br><br>
-       Analista de Sistemas Manoel Neto, cursando <b>Bacharel em Sistemas de Informação,</b>
-      <b>Centro-universitario-estacio-da-bahia.</b> Objetivo específicos analisa e implementar 
-       Sistemas de informação que gerem resultados esperado pela organização. Desempenhando
-      funções de desenvolvedor, analista de sistemas,
-      pesquisador, Gestão de qualidade em projetos, analista de Banco de dados. </p>
+       Analista de Sistemas Manoel Neto, <b>Bacharel em Sistemas de InformaÃ§Ã£o,</b>
+      <b>Universidade EstÃ¡cio de SÃ¡ da Bahia.</b> Cidade natal Capim Grosso-Ba. Sua educaÃ§Ã£o desde infÃ¢ncia 
+foi na Cidade de Nova FÃ¡tima-Ba 230 Km da Capital baiana, onde concluiu o Ensino MÃ©dio e realizou alguns trabalho na sua cidade. 
+Conhece bastante a regiÃ£o da bacia do jacuÃ­pe e esta disponÃ­vel para oportunidade de trabalho em qualquer regiÃ£o do Brasil. Ingressou na faculdade em 2014 na Ã¡rea da CiÃªncia da ComputaÃ§Ã£o.
+ "Pra mim foi sempre um dos vÃ¡rios sonhos, ingressar em uma faculdade e estudar sobre a ciÃªncia da computaÃ§Ã£o, desde infÃ¢ncia gostava de computadores e trabalhar com 
+eles, gosto de ciÃªncia e a computaÃ§Ã£o foi sempre um desafio para mim e entendia que a computaÃ§Ã£o traz um grande avanÃ§o para humanidade,
+na questÃ£o astronÃ´mica e outros meios para nossas vidas aqui na terra. Sou proativo gosto de CiÃªncia e do Evangelho. "Ao mergulhar na beleza da
+CriaÃ§Ã£o Divina do nosso planeta estamos instigando harmonias matemÃ¡ticas na mente do Criador". Marcelo Gleiser.
+E tenho alguns hobby, um dos Ã© tocar violÃ£o entre outros instrumentos. Gosto do que faÃ§o e tambÃ©m busco sempre a qualidade 
+e inovaÃ§Ã£o nos meus trabalhos para pequenas e grandes empresas seja qual for a atividade, ramo ou segmento. NÃ³s seres humanos samos curiosos e gostamos
+de entender e aprender as coisas, entÃ£o andar sempre atualizado 
+Ã© importante" Manoel Neto.  Objetivo especÃ­ficos anÃ¡lisar e implementar 
+       Sistemas de informaÃ§Ã£o que gerem resultados esperado pela organizaÃ§Ãµes. Desempenhando
+      funÃ§Ãµes de desenvolvedor, analista de sistemas,
+      pesquisador, Gerente de projetos e analista de Banco de dados. </p>
   <br>
   <p><i>
-      “Ciência da Computação está tão relacionada aos computadores quanto a Astronomia aos telescópios, Biologia aos microscópios, ou Química aos tubos de ensaio. 
-      A Ciência não estuda ferramentas. 
-      Ela estuda como nós as utilizamos, e o que descobrimos com elas.”
+     "A CiÃªncia da ComputaÃ§Ã£o estÃ¡ tÃ£o relacionada aos computadores quanto a Astronomia aos telescÃ³pios, Biologia aos microscÃ³pios, ou QuÃ­mica aos tubos de ensaio. 
+      A CiÃªncia nÃ£o estuda ferramentas. 
+      Ela estuda como nÃ³s as utilizamos, e o que descobrimos com elas."
       </i>
 <b>(Edsger Dijkstra)</b></p>
   
   
-  <p><b>Versículo para hoje.</b> Porque Deus amou o mundo de tal 
-      maneira que deu o seu Filho unigênito, para que
-      todo aquele que nele crê não pereça, mas tenha 
-      a vida eterna. João 3:16</p>
-  <h1>Atuações</h1>
+  <p><b>Versiculo para hoje.</b> Porque Deus amou o mundo de tal 
+      maneira que deu o seu Filho unigÃªnito, para que
+      todo aquele que nele crÃªr nÃ£o pereÃ§a, mas tenha 
+      a vida eterna. JoÃ£o 3:16</p>
+  <h1>AtuaÃ§Ãµes</h1>
   <p>
 
-Profissional com formação plena em Bacharel Sistema de Informação
-podendo atua em diversas áreas. <b>Gerente</b> (de tecnologia, 
+Profissional com formaÃ§Ã£o plena em Bacharel Sistema de InformaÃ§Ã£o
+podendo atua em diversas Ã¡reas. <b>Gerente</b> (de tecnologia, 
 de suporte, de sistemas, de desenvolvimento, de redes.);
 <b>Coordenador</b> (de projetos, de sistemas, de suporte.); 
 <b>Analista</b> (de sistemas, de suporte, de banco de dados,
-de negócios);<b>Projetista</b>  (de hardware, de software, 
+de negÃ³cios);<b>Projetista</b>  (de hardware, de software, 
 de sistemas, de redes, de banco de dados.); Desenvolvedor 
 (de sistemas, de software, etc.); <b>Consultor</b>
-(de tecnologia de informaçãos);<b>Empreendedor,</b>
+(de tecnologia de informaÃ§Ã£o);<b>Empreendedor,</b>
 Pesquisas e Treinamentos). </p>
   <div style="clear:both; height: 40px"></div>
 </div>
@@ -115,8 +125,8 @@ Pesquisas e Treinamentos). </p>
     <ul class="footer_links">
       <li><a href="#">Inicio</a></li>
       <li><a href="#">Sobre</a></li>
-      <li><a href="#">Portifólio</a></li>
-      <li><a href="#">Currículo</a></li>
+      <li><a href="#">PortifÃ³lio</a></li>
+      <li><a href="#">CurrÃ­culo</a></li>
       <li><a href="#">Contato</a></li>
     </ul>
   </div>
@@ -132,14 +142,14 @@ Pesquisas e Treinamentos). </p>
   </div>-->
   <!-- Third Column -->
   <div class="one-fourth">
-    <h3>Informação</h3>
+    <h3>InformaÃ§Ã£oo</h3>
     <div id="social_icons">Desenvolvedor: <a href="http://manoelsystem.oficinadasarts.com.br/portmanoel/">ManoelSystem</a><br>
-      © Direitos Reservado<a href="#"></a> </div>
+      Direitos Reservado<a href="#"></a> </div>
   </div>
   <!-- Fourth Column -->
   <div class="one-fourth last">
     <h3>Rede Social</h3>
-    <a href="#"><img src="img/icon_fb.png" alt=""></a> <img src="img/icon_twitter.png" alt="">  <a href="https://www.linkedin.com/in/manoel-neto-06ab9184"><img src="img/icon_in.png" alt=""> </a></div>
+    <a href="https://www.facebook.com/manoel.neto.56829446"><img src="img/icon_fb.png" alt=""></a> <img src="img/icon_twitter.png" alt="">  <a href="https://www.linkedin.com/in/manoel-neto-06ab9184"><img src="img/icon_in.png" alt=""> </a></div>
   <div style="clear:both"></div>
 </div>
 <!-- END footer -->
