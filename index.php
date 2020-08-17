@@ -256,14 +256,13 @@ Implementação de procedimentos e processos de negócios.</p>
   </div>
 <!-- END container -->
 <div id="footer">
-  <!-- First Column -->
-  <div class="one-fourth">
+ <div class="one-fourth">
     <h3>Links</h3>
     <ul class="footer_links">
       <li><a href="#">Inicio</a></li>
       <li><a href="#">Sobre</a></li>
-      <li><a href="#">PortifÃ³lio</a></li>
-      <li><a href="#">CurrÃ­culo</a></li>
+      <li><a href="#">Portifólio</a></li>
+      <li><a href="#">Currículo</a></li>
       <li><a href="#">Contato</a></li>
     </ul>
   </div>
@@ -280,15 +279,18 @@ Implementação de procedimentos e processos de negócios.</p>
   <!-- Third Column -->
   <div class="one-fourth">
     <h3>Informação</h3>
-   Versículo do Dia:.
+    Versículo para hoje.
 Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna. João 3:16
     <div id="social_icons">Desenvolvedor: <a href="http://www.manoelsystem.com.br/Portmanoel/">ManoelSystem</a><br>
-     2015-2017 © Direitos Reservado, Salvador-Ba, Nova Fatima-Ba.<a href="#"></a> </div>
+     2015-2020 © Direitos Reservado, Salvador-Ba, Nova Fatima-Ba, Fortaleza-Ce.<a href="#"></a> </div>
   </div>
   <!-- Fourth Column -->
   <div class="one-fourth last">
     <h3>Rede Social</h3>
-    <a href="#"><img src="img/icon_fb.png" alt=""></a> <img src="img/icon_twitter.png" alt="">  <a href="https://www.linkedin.com/in/manoel-neto-06ab9184"><img src="img/icon_in.png" alt=""> </a></div>
+    <a href="https://www.facebook.com/manoel.neto.56829446"><img src="img/icon_fb.png" alt=""></a>
+      <a href="https://www.linkedin.com/in/manoel-neto-06ab9184"><img src="img/icon_in.png" alt=""> </a>
+      <a href="https://www.youtube.com/channel/UCUfp9SYNVDaVWfddT2of5Fg"><img src="img/youtubeicon.png" alt=""> </a>
+    </div>
   <div style="clear:both"></div>
 </div>
 <!-- END footer -->
